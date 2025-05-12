@@ -1,4 +1,4 @@
-# 🎯 Task 01 (2) – Number Guessing Game (Python)
+# 🎯 Task 01 (2) – Number Guessing Game
 
 ## 📌 Description
 
