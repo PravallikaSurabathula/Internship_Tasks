@@ -20,22 +20,9 @@ I am a passionate and enthusiastic aspiring software developer currently prepari
 - Automation with Python
 - Git & GitHub version control
 
-## 📁 Repository Structure
+## 📁 Repository contains
 
-Internship_Tasks/
-│
-├── Task_01/
-│ └── README.md
-│ └── solution.py
-│
-├── Task_02/
-│ └── README.md
-│ └── solution.py
-│
-└── ...so on
-
-
-Each folder represents a task with a clear structure: problem description, code solution, and any related documentation.
+Each folder represents a task with a clear structure: problem description, code solution
 
 ## 📌 Objective
 
